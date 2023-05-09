@@ -8,7 +8,13 @@ I am currently a student of Systems Analysis and Development at IFBA
 
 <br>
 
- I'm also a Full Stack intern focused on Web development, learning about technology for develop high-impact projects 
+ I'm also a Developer .NET Jr on Computação Brasil, currently developing .NET applications as a Full-Stack developer, building APIs in MVC and WEB pages with Razor Pages. 
+ 
+ 
+ 
+ <br>
+ 
+ In addition, I'm working with the development and integration of Machine Learning models using Sklearn in Python.
  
  <br>
 
