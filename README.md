@@ -4,24 +4,25 @@
 
 <br>
 
-I am currently a student of Systems Analysis and Development at IFBA
+🎓 I am currently a student of Systems Analysis and Development at IFBA and Special Master's student in Computer Science at PGCOMP at UFBA
 
 <br>
 
- I'm also a Developer .NET Jr on Computação Brasil, currently developing .NET applications as a Full-Stack developer, building APIs in MVC and WEB pages with Razor Pages. 
+ 🖥️ I'm also a Developer .NET Jr on Computação Brasil, currently developing .NET applications as a Full-Stack developer, building APIs in MVC and WEB pages with Razor Pages. 
  
  
  
  <br>
  
- In addition, I'm working with the development and integration of Machine Learning models using Sklearn in Python.
+ 🐍 In addition, I'm working with the development and integration of Machine Learning models using Sklearn in Python.
  
  <br>
 
-Currently my favorite hobbies are  play games, play tennis and enjoy the day with good companies! 
 
 
 ### Welcome!
+
+## 🚀 Github Stats
 
 <div>
 
@@ -31,13 +32,18 @@ Currently my favorite hobbies are  play games, play tennis and enjoy the day wit
 
 
 
-<h3> Top Languages</h3>
+ ## 💻Main Technologies
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Julian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Julian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Julian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+  <img align="center" alt="Julian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
+  <img align="center" alt="Julian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   
 </div>
 
@@ -51,4 +57,5 @@ Currently my favorite hobbies are  play games, play tennis and enjoy the day wit
 <a href="https://www.linkedin.com/in/JulianReina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+![](https://komarev.com/ghpvc/?username=JulianReina96&color=blue)
 
